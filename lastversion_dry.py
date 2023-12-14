@@ -66,7 +66,7 @@ y_pred1=numpy.polyval(f1,0.12)
 print(y_pred1)
 y_pred2=numpy.polyval(f2,0.12)
 print(y_pred2)
-y_pred3=numpy.polyval(f3,0.12)_
+y_pred3=numpy.polyval(f3,0.12)
 print(y_pred3)
 y_pred4=numpy.polyval(f4,0.12)
 print(y_pred4)
